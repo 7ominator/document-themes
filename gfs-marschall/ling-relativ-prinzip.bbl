@@ -19,6 +19,46 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{wiki:Leben_des_Galilei_Charakterisierungen}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1f8c0273c434708ede71be241f12e977}{%
+           family={Frustfrei-Lernen},
+           familyi={F\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f8c0273c434708ede71be241f12e977}
+      \strng{fullhash}{1f8c0273c434708ede71be241f12e977}
+      \strng{bibnamehash}{1f8c0273c434708ede71be241f12e977}
+      \strng{authorbibnamehash}{1f8c0273c434708ede71be241f12e977}
+      \strng{authornamehash}{1f8c0273c434708ede71be241f12e977}
+      \strng{authorfullhash}{1f8c0273c434708ede71be241f12e977}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.frustfrei-lernen.de/deutsch/das-leben-des-galilei-brecht-bertolt-charakterisierung-personen.html}}
+      \field{note}{[Online; aufgerufen am 07. November 2023]}
+      \field{title}{Das Leben des Galilei Charakterisierung der Personen}
+    \endentry
+    \entry{wiki:Leben_des_Galilei_Personen}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d294b2f95859b20ff97af0165a81e8f2}{%
+           family={simpleclub},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{d294b2f95859b20ff97af0165a81e8f2}
+      \strng{fullhash}{d294b2f95859b20ff97af0165a81e8f2}
+      \strng{bibnamehash}{d294b2f95859b20ff97af0165a81e8f2}
+      \strng{authorbibnamehash}{d294b2f95859b20ff97af0165a81e8f2}
+      \strng{authornamehash}{d294b2f95859b20ff97af0165a81e8f2}
+      \strng{authorfullhash}{d294b2f95859b20ff97af0165a81e8f2}
+      \field{sortinit}{s}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://simpleclub.com/lessons/deutsch-leben-des-galilei-personen}}
+      \field{note}{[Online; aufgerufen am 07. November 2023]}
+      \field{title}{Leben des Galilei Personen}
+    \endentry
     \entry{wiki:Faust_Studyflix}{misc}{}
       \name{author}{1}{}{%
         {{hash=b18c523e872ac427f4140082fee87b65}{%
@@ -31,13 +71,35 @@
       \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
       \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
       \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://studyflix.de/deutsch/faust-charakterisierung-4101}}
-      \field{note}{[Online; aufgerufen am 07. November 2023]}
+      \field{note}{[Online; aufgerufen am 01. November 2023]}
       \field{title}{Faust – Charakterisierung}
+    \endentry
+    \entry{wiki:Galilei_Studyflix}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b18c523e872ac427f4140082fee87b65}{%
+           family={Studyflix},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{bibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://studyflix.de/deutsch/leben-des-galilei-zusammenfassung-4223}}
+      \field{note}{[Online; aufgerufen am 07. November 2023]}
+      \field{title}{Leben des Galilei – Zusammenfassung}
     \endentry
     \entry{wiki:Faust_Studysmarter}{misc}{}
       \name{author}{1}{}{%
@@ -51,13 +113,57 @@
       \strng{authorbibnamehash}{6cccc97ee2fc5cc9c6a259948f830678}
       \strng{authornamehash}{6cccc97ee2fc5cc9c6a259948f830678}
       \strng{authorfullhash}{6cccc97ee2fc5cc9c6a259948f830678}
+      \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.studysmarter.de/schule/deutsch/interpretation-literarischer-texte/faust-charaktere/}}
-      \field{note}{[Online; aufgerufen am 07. November 2023]}
+      \field{note}{[Online; aufgerufen am 01. November 2023]}
       \field{title}{Faust Charaktere}
+    \endentry
+    \entry{wiki:Leben_des_Galilei_Studysmarter}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6cccc97ee2fc5cc9c6a259948f830678}{%
+           family={Studysmarter},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cccc97ee2fc5cc9c6a259948f830678}
+      \strng{fullhash}{6cccc97ee2fc5cc9c6a259948f830678}
+      \strng{bibnamehash}{6cccc97ee2fc5cc9c6a259948f830678}
+      \strng{authorbibnamehash}{6cccc97ee2fc5cc9c6a259948f830678}
+      \strng{authornamehash}{6cccc97ee2fc5cc9c6a259948f830678}
+      \strng{authorfullhash}{6cccc97ee2fc5cc9c6a259948f830678}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.studysmarter.de/schule/deutsch/drama/leben-des-galilei/}}
+      \field{note}{[Online; aufgerufen am 07. November 2023]}
+      \field{title}{Leben des Galilei}
+    \endentry
+    \entry{wiki:Leben_des_Galilei}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://de.wikipedia.org/w/index.php?title=Leben\%20des\%20Galilei&oldid=238681444}}
+      \field{note}{[Online; aufgerufen am 07. November 2023]}
+      \field{title}{{Leben des Galilei} --- {W}ikipedia, The Free Encyclopedia}
+      \field{year}{2023}
     \endentry
     \entry{wiki:Verrückter_Wissenschaftler}{misc}{}
       \name{author}{1}{}{%
@@ -71,12 +177,13 @@
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{http://de.wikipedia.org/w/index.php?title=Verr\%C3\%BCckter\%20Wissenschaftler&oldid=236759399}}
-      \field{note}{[Online; accessed 07-November-2023]}
+      \field{note}{[Online; aufgerufen am 31. Oktober 2023]}
       \field{title}{{Verrückter Wissenschaftler} --- {W}ikipedia, The Free Encyclopedia}
       \field{year}{2023}
     \endentry
